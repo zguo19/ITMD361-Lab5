@@ -1,3 +1,9 @@
+div{
+    background-color: black;
+    margin: 5% 20% 7% 20%;
+    padding: 3% 3% 3% 3%;
+}
+
 body{
     margin:0;
     background-image: url("media/milky-way.jpg");
@@ -18,7 +24,7 @@ h1{
     width:54%;
     border: 15px solid gold;
     padding: 2%;
-    margin: 5% 20% 5% 20%;
+    margin: 0% 0% 5% 20%;
 }
 
 .earth{
@@ -40,19 +46,25 @@ h1{
 
 #planet_names{
     background-color: white;
-}
-
-.empty{
-    background: none;
+    font-family: 'VT323', monospace;
 }
 
 table{
     text-align: center;
-    margin:  5% 20% 5% 20%;
     border: 10px solid black;
+    border: 1px;
 }
 
 .col{
     text-align: left;
     background-color: lavender;
+    font-family: 'Slabo 27px', serif;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
 }
