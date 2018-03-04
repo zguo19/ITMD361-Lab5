@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    background-image: url("media/milky-way.jpg");
+    background-size: 1500px 843px;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: black;
+    color:white; 
+    text-align: center
+}
+
+h1{
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+    background-color: whitesmoke;
+    width:54%;
+    border: 15px solid gold;
+    padding: 2%;
+    margin: 5% 20% 5% 20%;
+}
+
+.earth{
+    background-color: rgb(120, 182, 202);
+}
+
+.mars{
+    background-color: lightgoldenrodyellow;
+}
+
+.venus{
+    background-color: lightpink;
+}
+
+.jupiter{
+    background-color: lightgrey;
+}
+
+
+#planet_names{
+    background-color: white;
+}
+
+.empty{
+    background: none;
+}
+
+table{
+    text-align: center;
+    margin:  5% 20% 5% 20%;
+    border: 10px solid black;
+}
+
+.col{
+    text-align: left;
+    background-color: lavender;
+}
